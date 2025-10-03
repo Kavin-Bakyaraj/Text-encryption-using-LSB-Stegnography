@@ -16,7 +16,7 @@ This project is a full-stack web application for image steganography and AI-base
 ## Features
 
 - Inject secret prompts into images using steganography (shrinking method).
-- Detect hidden prompts in images using Google Gemini AI (Nano Banana).
+- Can't Detect hidden prompts in images using any AI .
 - Modern React frontend for user interaction.
 - RESTful API backend in Python.
 
